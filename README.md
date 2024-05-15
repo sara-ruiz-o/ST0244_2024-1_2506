@@ -7,4 +7,8 @@ Nombre Completo -> Correo electrónico Institucional
 
 Diego Iván Cruz Ordiéres -> dcruzo@eafit.edu.co
 
+Andrés Felipe Garnica Roa -> afgarnicar@eafit.edu.co
+
 Isabella Camacho Monsalve -> icamachom1@eafit.edu.co
+
+Agustín Figueroa Sierra -> afigueroas@eafit.edu.co
