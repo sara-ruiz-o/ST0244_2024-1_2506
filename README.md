@@ -12,3 +12,5 @@ Andrés Felipe Garnica Roa -> afgarnicar@eafit.edu.co
 Isabella Camacho Monsalve -> icamachom1@eafit.edu.co
 
 Agustín Figueroa Sierra -> afigueroas@eafit.edu.co
+
+Juan Pablo de Jesus Avendaño Bustamante -> jpavendanb@eafit.edu.co
