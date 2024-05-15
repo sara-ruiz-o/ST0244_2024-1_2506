@@ -16,3 +16,5 @@ Agustín Figueroa Sierra -> afigueroas@eafit.edu.co
 Juan Pablo de Jesus Avendaño Bustamante -> jpavendanb@eafit.edu.co
 
 María Acevedo Suárez -> macevedos2@eafit.edu.co
+
+Samuel Enrique Rivero Urribarrí -> seriverou@eafit.edu.co
