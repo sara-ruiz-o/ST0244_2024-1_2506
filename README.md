@@ -21,3 +21,5 @@ David Alberto Cuadros Mariño -> dacuadrosm@eafit.edu.co
 Alexandra Hurtado David -> ahurtadod@eafit.edu.co
 
 Andrés Felipe Alarcón Rojas -> afalarconr@eafit.edu.co
+
+Simon Isaza Lopez -> sisazal1@eafit.edu.co
