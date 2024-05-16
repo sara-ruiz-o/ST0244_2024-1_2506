@@ -19,3 +19,5 @@ María Acevedo Suárez -> macevedos2@eafit.edu.co
 David Alberto Cuadros Mariño -> dacuadrosm@eafit.edu.co
 
 Alexandra Hurtado David -> ahurtadod@eafit.edu.co
+
+Andrés Felipe Alarcón Rojas -> afalarconr@eafit.edu.co
