@@ -26,6 +26,3 @@ Simon Isaza Lopez -> sisazal1@eafit.edu.co
 
 Andrés Felipe Alarcon Rojas -> afalarconr@eafit.edu.co
 
-
-
->>>>>>> 9835a59416ae337bfd4ba7c7c8295b152cdbc2d9
