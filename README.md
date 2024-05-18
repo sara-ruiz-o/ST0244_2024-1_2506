@@ -26,3 +26,5 @@ Simon Isaza Lopez -> sisazal1@eafit.edu.co
 
 Andrés Felipe Alarcon Rojas -> afalarconr@eafit.edu.co
 
+Diego Eduardo Chourio Garcia -> dechouriog@eafit.edu.co
+
