@@ -31,3 +31,5 @@ Diego Eduardo Chourio Garcia -> dechouriog@eafit.edu.co
 Pablo Cabrejos Munera -> pcabrejosm@eafit.edu.co
 
 Sebastián Villegas Calle -> svillegas3@eafit.edu.co
+
+Emanuel Gonzalez Quintero -> egonzalezq@eafit.edu.co
