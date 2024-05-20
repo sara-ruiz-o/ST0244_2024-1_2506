@@ -39,3 +39,5 @@ Samuel Herrea Hoyos -> sherrerah3@eafit.edu.co
 Gabriela Sanabria Gonzalez -> gsanabriag@eafit.edu.co
 
 Samuel Enrique Rivero Urribarrí -> seriverou@eafit.edu.co
+
+Diego Andres Gonzalez Graciano -> dagonzal11@eafit.edu.co
