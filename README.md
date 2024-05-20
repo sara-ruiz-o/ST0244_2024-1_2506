@@ -43,3 +43,5 @@ Samuel Enrique Rivero Urribarrí -> seriverou@eafit.edu.co
 Diego Andres Gonzalez Graciano -> dagonzal11@eafit.edu.co
 
 Alejandro Sepulveda Posada -> asepulvedp@eafit.edu.co
+
+Sara Ruiz Ospina -> sruizo@eafit.edu.co
